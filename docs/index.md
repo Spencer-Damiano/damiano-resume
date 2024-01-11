@@ -19,7 +19,7 @@ Computer Science Student at Brigham Young University - Idaho
 `Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 3.0 Major GPA
+- 3.4 GPA
 - Computer Science Degree
   
 `2013-2017`
