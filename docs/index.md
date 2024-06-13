@@ -22,12 +22,12 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 3.47 GPA.
 
 ### Coursework
-
-| Applied Programming     | Database and Design     | Data Science Programming |
-| ----------------------- | ----------------------- | ------------------------ |
-| Data Intuition and Insight | Programming with Data Structures | Intro to Cyber Security |
-
-
+- Applied Programming
+- Database and Design
+- Data Science Programming
+- Data Intuition and Insight
+- Programming with Data Structures
+- Intro to Cyber Security
 
 ## Experience
 
